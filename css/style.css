@@ -1,0 +1,26 @@
+.title{
+    font-size: 300px;
+    display: inline;
+}
+.inlineb{
+    display: inline;
+    background-color: dodgerblue;
+}
+.inline{
+    display: inline;
+}
+.arrowdown::before{
+    content: &#9660;
+}
+
+.tickgreen::before{
+    content: &#10004;
+    border-color: green;
+    border-radius: 100%;
+}
+
+.xred::before {
+    content: X;
+    border-color: crimson;
+    border-radius: 100%;
+}
