@@ -1,5 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    background-color: #f6f8f9;
+}
+
+.schedule{
+    margin: 30px 150px;
+}
 .title{
-    font-size: 300px;
+    font-size: 70px;
     display: inline;
 }
 .inlineb{
